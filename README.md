@@ -85,10 +85,6 @@ Modular monolith · Domain events · ADRs · API-first (OpenAPI) · Strategy / F
 - **[Tunisian Licence Plate Recognition](https://github.com/IhebKhalfallaah/tunisianlicenceplate)**: Flask app that detects, reads (ONNX CNN + YOLOv5 + EasyOCR) and blurs Tunisian plates, with results stored in MySQL.
 - **[HeartScan AI: ECG ischemia](https://github.com/IhebKhalfallaah/ECG-Signal-Prediction-)**: 2-lead ECG pipeline (Butterworth filters, Pan-Tompkins, entropy features, SVM) behind a Flask web app.
 
-### Research
-
-- **[Railway Fault Diagnosis](https://github.com/IhebKhalfallaah/Machine-Learning-Based-Railway-Fault-Diagnosis)**: Three-stage hierarchical ML cascade over 7 vibration channels and 10 health states (84.2 % end-to-end accuracy). Paper under review.
-- **[HMA-DRL: Fog computing](https://github.com/IhebKhalfallaah/CHM-Application-RL)**: Hierarchical multi-agent DQN/A2C for microservice placement and task offloading on iFogSim2 (96–98 % emergency QoS). Paper under review.
 
 ## Let's connect
 
