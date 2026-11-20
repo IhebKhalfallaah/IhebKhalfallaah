@@ -8,7 +8,7 @@ I design and build maintainable web platforms end to end, from domain modelling 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Iheb%20Khalfallah-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ihebkhalfallah)
 [![Email](https://img.shields.io/badge/Email-ihebkhalfallah23%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:ihebkhalfallah23@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-111111?logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-111111?logo=vercel&logoColor=white)](https://ihebkhalfallah.vercel.app/)
 ![Location](https://img.shields.io/badge/Sousse,%20Tunisia-open%20to%20work-2ea44f)
 
 </div>
@@ -86,8 +86,9 @@ Modular monolith · Domain events · ADRs · API-first (OpenAPI) · Strategy / F
 - **[HeartScan AI: ECG ischemia](https://github.com/IhebKhalfallaah/ECG-Signal-Prediction-)**: 2-lead ECG pipeline (Butterworth filters, Pan-Tompkins, entropy features, SVM) behind a Flask web app.
 
 
+
 ## Let's connect
 
-📫 **ihebkhalfallah23@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/ihebkhalfallah) · 📍 Sousse, Tunisia
+📫 **ihebkhalfallah23@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/ihebkhalfallah) · 🌐 [Portfolio](https://ihebkhalfallah.vercel.app/) · 📍 Sousse, Tunisia
 
 Open to **full-stack / backend engineering** roles.
